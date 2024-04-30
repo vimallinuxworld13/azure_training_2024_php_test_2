@@ -1,8 +1,8 @@
 <?php
 
-print("my LW website");
+print("my LW website tc");
 print("<br>");
-print("version 1");
+print("version 2");
 
 
 ?>
